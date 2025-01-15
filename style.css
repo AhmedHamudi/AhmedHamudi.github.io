@@ -1,0 +1,31 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/ClientSide/css.css to edit this template
+*/
+/* 
+    Created on : 05.12.2024, 09:59:08
+    Author     : Admin
+*/
+.museomoderno artmosphere {
+  font-family: "MuseoModerno", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 100;
+  font-style: normal;
+}
+
+.Logo{
+    width: 7em;
+    height: auto;
+    vertical-align: middle;    
+}
+
+body{
+    background-color: #F7E3BA;
+    font-family: "MuseoModerno", sans-serif;
+}
+
+header{
+    background-color: #27272F;
+    color: #FFFFFF;
+}
+
